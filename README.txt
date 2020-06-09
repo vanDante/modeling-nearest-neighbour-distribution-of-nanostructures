@@ -4,6 +4,9 @@ This code allows to model the nearest neighbour distribution of nanostructures o
 
 This code is part of the following publication, which contains more inforamtion about the physical background:
 
+Nano Reserach:
 https://link.springer.com/article/10.1007/s12274-017-1717-x
+
+ArXiv (open source):
 https://arxiv.org/abs/1801.02966
  
