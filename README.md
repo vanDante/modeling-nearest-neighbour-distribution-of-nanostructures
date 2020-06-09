@@ -1,1 +1,0 @@
-# modeling-nearest-neighbour-distribution-of-nanowires
